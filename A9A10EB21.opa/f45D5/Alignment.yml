@@ -1,0 +1,23 @@
+segment_sources:
+  IA6A0FA3A:
+    type: origin_type
+    relation: translation
+    language: sa
+  ID9BBD559:
+    type: origin_type
+    relation: translation
+    language: zh
+  I4FB8F5BA:
+    type: origin_type
+    relation: translation
+    language: bo
+  I08C88148:
+    type: origin_type
+    relation: translation
+    language: fr
+segment_pairs:
+  90adccc758124b378215496af972cf28:
+    IA6A0FA3A: a9cf685648134b04bc6e8c1ec474a003
+    ID9BBD559: fce438794130428b9cf369292106e90b
+    I4FB8F5BA: bf46f1ab8a9d4c7d81086de7729a0361
+    I08C88148: None
